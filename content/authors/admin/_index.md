@@ -1,6 +1,6 @@
 ---
 title: Chai Zhiyuan
-role: Researcher of WebSoft
+role: Researcher of Websoft
 bio: My research interests include knowledge graph, semantic searching and graph
   theory.
 interests:
