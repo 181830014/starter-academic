@@ -6,7 +6,7 @@ bio: My research interests include knowledge graph, semantic searching and graph
 interests:
   - Knowledge Graph
   - Semantic Searching
-  - Graph Theory.
+  - Graph Theory
 social:
   - icon: envelope
     icon_pack: fas
@@ -28,9 +28,9 @@ organizations:
     url: https://www.nju.edu.cn/
 education:
   courses:
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Computer Science
+      institution: Nanjing University
+      year: 2018
 email: ""
 superuser: true
 highlight_name: false
