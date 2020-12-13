@@ -5,7 +5,8 @@ bio: My research interests include knowledge graph, semantic searching and graph
   theory.
 interests:
   - Knowledge Graph
-  - Semantic Searching and Graph Theory.
+  - Semantic Searching
+  - Graph Theory.
 social:
   - icon: envelope
     icon_pack: fas
