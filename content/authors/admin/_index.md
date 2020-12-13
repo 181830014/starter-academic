@@ -4,9 +4,8 @@ role: Researcher of WebSoft
 bio: My research interests include knowledge graph, semantic searching and graph
   theory.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Knowledge Graph
+  - Semantic Searching and Graph Theory.
 social:
   - icon: envelope
     icon_pack: fas
