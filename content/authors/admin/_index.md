@@ -13,12 +13,12 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: gitlab
+    icon_pack: fab
+    link: https://git.nju.edu.cn/panda_eater
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/181830014
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
