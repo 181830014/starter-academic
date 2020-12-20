@@ -7,6 +7,7 @@ interests:
   - Knowledge Graph
   - Semantic Searching
   - Graph Theory
+  - Machine Learning
 social:
   - icon: envelope
     icon_pack: fas
